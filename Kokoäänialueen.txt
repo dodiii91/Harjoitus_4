@@ -1,0 +1,4 @@
+Kokoäänialueen kaiutin eli laajakaistakaiutin on kaiutin, jonka kautta soitetaan kaikkia äänitaajuuksia. Käytännössä taajuusvaste ei ole täysin suora, mutta kokoäänialueen kaiuttimet toistavat kokonaisuutena kuuloalueen taajuudet paremmin kuin muissa kaiutinelementtityypeissä. Elementti voi olla esimerkiksi 4-tuumainen. Suurta dynamiikkaa bassoalueella ei voi saavuttaa eivätkä korkeat taajuudet välttämättä soi niin laadukkaasti kuin diskanttikaiuttimen kautta, mutta rakenteen äänenlaatua lisäävänä tekijänä voi mainita sen, että vaihevirhe jää pieneksi, koska kaikki taajuudet tulevat samasta elementistä.
+
+Periaatteella on tehty kaiuttimia, jotka sopivat vaativallekin kuuntelijalle.
+

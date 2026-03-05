@@ -1,0 +1,40 @@
+Subwoofer (puhekielessä usein subbari) eli alataajuuskaiutin (usein myös alabassokaiutin tai alaäänikaiutin) on kaiutin, joka on suunniteltu toistamaan erityisesti matalia eli alle 150 hertsin taajuuksia.lähde? Bassokaiuttimia käytettiin alun perin elävän musiikin esittämisessä, nykyään paljon myös kotiteattereissa sekä koti- ja autohifilaitteiden yhteydessä.
+Itse tehty subwoofer, sähköiset osat tarvikesarjasta.
+Taustaa
+
+Subwoofer on nimensä mukaan alataajuuskaiutin. Se syntyi terminä jo 1960-luvulla, mutta alaäänikaiuttimia alettiin käyttää autohifilaitteissa vasta 1980-luvun alussa. Kotihifiin ne yhdistettiin käytännössä 1990-luvulla Dolby Prologic -tekniikan myötä.lähde? Alkujaan alaäänikaiuttimet sijoitettiin elävän musiikin esittämislavan molemmin puolin eli bassoäänien toisto toteutettiin stereona. Nykyään kaiuttimet ryhmitellään lavan eteen, koska leveä muodostelma auttaa äänen suuntaamisessa kuuntelijoita kohti.
+Rakenne ja toiminta
+
+Ihmisen kuuloalue alkaa noin 20 hertsistä ja subwoofer toistaa matalimmat 1-2 oktaavia.lähde? Todellisten soittimien matalimmat perusäänet ovat basson E-kieli n. 40 hertsiä ja urkujen n. 16 hertsin jalkioäänet. Käytännössä kaikki matalimmat äänet tuotetaan nykyisin synteettisesti.
+Kotelointi
+
+Subwooferien kotelot valmistetaan tavallisimmin puusta, MDF-levystä tai lastulevystä. Pienikokoisissa subwoofereissa kotelo on usein muovia. Harvinaisempia kotelomateriaaleja ovat vuolukivi, lasikuitu, hiilikuitu, betoni ja metallit.
+
+Yleisimmät kotelointiperiaattet ovat suljetut, refleksi- ja kaistanpäästötoteutukset. Kotelon pitää olla tukeva, koska varsinkin refleksikotelossa kotelon sisäiset paineenvaihtelut voivat olla suuria. Myös haitalliset resonanssit, joita syntyy kotelon värähdellessä ominaistaajuudellaan, edellyttävät tukevaa rakennetta. Kotelon sisäiset seisovat aallot vaikuttavat myös toistoon ja näkyvät yleensä impedanssivasteessa. Kotelon tukevuutta voidaan parantaa kasvattamalla seinämämateriaalin paksuutta ja jäykkyyttä tai lisäämällä kotelon sisälle tukirimoja tai -levyjä. Kaiutin voidaan myös rakentaa kahdesta sisäkkäisestä kotelosta, joiden väli täytetään esimerkiksi hiekalla. Vuorivillaa käytetään kotelon vaimentajana ja helpottamaan refleksikoteloiden hienoviritystä.
+
+Suljettu subwoofer-kotelo on helpoin toteuttaa, koska siinä virheiden mahdollisuus jää vähäisimmäksi. Refleksikotelon suunnittelu ja valmistaminen vaatii enemmän työtä, sillä kotelorakenteella aiheutetaan tahallisesti resonanssi, joka vahvistaa äänenpainetta resonanssitaajuudella, mutta vaimentaa äänenpainetta sitä matalammilla taajuuksilla. Kotelon tilavuus, putken halkaisija sekä putken pituus vaikuttavat tähän viritystaajuuteen. Resonanssin voi muodostaa myös passiivielementin avulla. Kaistanpäästökoteloissa hyödynnetään myös resonansseja niin, että ainoastaan halutut taajuudet pääsevät kaiuttimen ulkopuolelle refleksiputken tai passiivielementin kautta.
+Peerless XLS-sarjan kaiutinelementti.
+Elementti
+
+Käytettävä kaiutinelementti on yleensä halkaisijaltaan 20–53 cm. Yksi kotelo voi sisältää useampia elementtejä. Kotelo mitoitetaan useimmiten elementin mukaan. Tärkeimmät elementin suunnitteluun vaikuttavat parametrit ovat:
+
+    Resonanssitaajuus (bassolla 10–45 Hz)
+    Kokonaishyvyysluku (bassolla 0,13–0,6)
+    Ekvivalenttitilavuus (suuri haarukka)
+    Lineaarinen liikepoikkeama (varsinkin suljetussa kotelossa)
+    Voimakerroin (varsinkin bassotorvet)
+    Mms eli tehollinen liikkuva massa
+    Induktanssi
+    DC-resistanssi
+
+Vahvistin
+
+Vahvistin muuttaa linjatasoisen sähköisen signaalin jännitetasoltaan korkeammaksi ja tuottaa matalan lähtöimpedanssin, eli vahvistaa sähköistä signaalia. Vahvistuksen jälkeen sähköinen signaali on riittävän voimakas liikuttamaan kaiutinelementin kalvoa siten, että saadaan aikaan käyttökelpoinen äänenvoimakkuus.
+
+Subwooferia, joka sisältää oman vahvistimensa, kutsutaan aktiivisubwooferiksi ja subwooferia, jossa ei ole omaa vahvistinyksikköä, kutsutaan passivisubwooferiksi. Kaikki subwooferit tarvitsevat vahvistimen toimiakseen, kuten kaikki maailman kaiutinelementit. Suurin ero aktiivi- ja passiivisubwooferien välillä on, ettei passiivisessa subbarissa ole aktiivisia, subwooferkäyttöön räätälöityjä säätöjä, kuten alipäästösuotimen, vaihesäädön sekä subwooferin oman tasonsäädön muokkausmahdollisuuksia.
+
+Passiivista subwooferia ei pidä sekoittaa passiiviseen säteilijään, joka on pelkkä elementti ilman vahvistinkytkentöjä, jota käytetään mm. subwoofereissa.
+
+Aktiivisen subwooferin vahvistin koostuu tyypillisesti etuvahvistimesta ja päätevahvistimesta. Etuvahvistin sisältää signaalin muokkaukseen tarvittavat suotimet ja säädöt, esimerkiksi äänenvoimakkuuden säätimen ja rajataajuudeltaan säädettävän alipäästösuotimen, joka erottaa vain valittua rajataajuutta matalammat osat äänestä subwooferin toistettavaksi. Päätevahvistimen tehtävänä on vahvistaa etuvahvistimen muokkaama signaali kaiutinelementille sopivaksi.
+Sijoitus ja säädöt
+Alaäänikaiuttimen suositeltu paikka on pääkaiuttimien välissä 1–1,5 metrin päässä lähimmästä seinästä.lähde? Mahdollisen erillisvahvistimen äänenvoimakkuus ei saa olla liian korkea, jottei kokonaistoisto kärsi.selvennä Vaihe säädetään niin, että alaäänikaiuttimen sointi on tarkka ja integroituu hyvin pääkaiuttimien sointiin. Jakotaajuus asetetaan alas pääkaiuttimien alarajataajuuden tuntumaan. Yleensä kannattaa käyttää kahta alaäänikaiutinta, jolloin etuna ovat hyvät säätömahdollisuudet ja parempi integrointi pääkaiuttimiin. Takaseinän läheisyyttä voi hyödyntää sijoittelussa. 

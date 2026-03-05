@@ -1,0 +1,9 @@
+Bassokaiutin (engl. woofer), on kaiutinelementti, jonka tehtävä on toistaa matalia ääniä kaiuttimessa.
+
+Elementti voi olla rakenteeltaan kookas, esimerkiksi 20–80 cm [1]lähde tarkemmin? ja toimia yhtenä, esim. 2- tai 3-tie kaiuttimen elementeistä. Laadukkaat elementit toistavat hyvinkin matalia, esim. 20 Hz:n taajuuksia. Tyypillisimmät kotelointitavat lienevät suljettu tai bassorefleksi-kotelo. Bassorefleksikotelossa on putki, joka yhdistää kaiuttimen ilmatilan huoneen ilmaan. Sopivalla putkella saadaan tiettyä taajuutta korostettua.
+
+Bassokaiuttimen erikoistapaus on subwoofer, joka on varta vasten suunniteltu tuottamaan matalia ääniä ja sellaisilla on yleensä omat kotelonsa. Kaiutin, jossa on useampia kuin yksi elementti sisältäen myös bassoelementin, voi kuitenkin toistaa yhtä matalia ja voimakkaita ääniä kuin varsinaiset subwooferit.
+
+Bassoelementtien magneetit ovat yleensä suuria ja painavia paremman herkkyyden aikaansaamiseksi. Kestomagneettien magneettisuus on tehostunut varhaisista kestomagneeteista merkittävästi. Elementtien taajuusvaste laskee korkeita taajuuksia kohti mennessä ja siksi jakosuodattimella suodatetaan korkeampia taajuuksia pois.
+
+Saavutettavaan äänenpaineeseen vaikuttaa merkittävästi kuuntelutilan koko, ääriesimerkkinä kuulokkeet joilla saadaan pienelläkin teholla suuria äänenpaineita myös bassoalueella. Myös autoon on helpompi järjestää suurempi äänenpaine pienemmällä teholla kuin kotiin. Hifistien kritiikin kohteena on ollut ajatus siitä että "paljon bassoa" olisi jotenkin yhteydessä äänenlaatuun koska tilannetta voi ajatella myös laadun eikä määrän kannalta. 
